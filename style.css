@@ -177,6 +177,11 @@ body {
 
 }
 
+#page2 .elem .dets:hover{
+    height: 200px;
+    transition: 0.5s;
+}
+
 #page3 {
     min-height: 120vh;
     width: 100%;
@@ -201,7 +206,6 @@ body {
 .child img {
     height: 100%;
 }
-
 
 @media (max-width:600px) {
 
